@@ -1,0 +1,1 @@
+This file is just created to create empty folder uploads without which code will not work
